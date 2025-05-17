@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @6939hemant
 - 👀 I’m interested in coding and innovation 
 - 🌱 I’m currently learning coding 
-- 💞️ I’m looking to collaborate on biomedical research company 
+- 💞️ I’m looking to collaborate on biomedical research  
 - 📫 How to reach me (instagram - _userwantstodie)
 - email- hemant6939kk@gmail.com
 - 😄 Pronouns: he
