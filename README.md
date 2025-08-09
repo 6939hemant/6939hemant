@@ -22,3 +22,56 @@ You can click the Preview link to take a look at your changes.
 - 💌 hemant6939kk@gmail.com
 - 🌐 [hemantkk.websites.co.in](https://hemantkk.websites.co.in)
 - 🐙 GitHub: [@6939hemant](https://github.com/6939hemant)
+<!-- WELCOME SCREEN -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=00FF00&center=true&vCenter=true&width=800&lines=WELCOME+TO+MY+GITHUB+UNIVERSE+🌌;Full+Stack+Developer+%F0%9F%92%BB;AI+%26+Automation+Specialist+🤖;Open+Source+Contributor+🌍" alt="Typing SVG" />
+</h1>
+
+<!-- NEON BLACK BOX -->
+<div align="center" style="background-color:black;padding:15px;border-radius:10px;">
+  <h2 style="color:#00FF00;font-family:monospace;">WELCOME</h2>
+</div>
+
+<!-- ANIMAL GIFS -->
+<p align="center">
+  <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="150px" />
+  <img src="https://media.giphy.com/media/3o6ZsY3vQqQvG6s2qE/giphy.gif" width="150px" />
+  <img src="https://media.giphy.com/media/l3vR9O9r3Gd8qfIha/giphy.gif" width="150px" />
+</p>
+
+---
+
+## 🛠 Tech Arsenal
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,java,cpp,go,mysql,mongodb,git,github,docker,kubernetes,aws" />
+</p>
+
+---
+
+## 📊 GitHub Stats & Daily Streak
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Hemant-KK&theme=tokyonight&hide_border=true&border_radius=10)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hemant-KK&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hemant-KK&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)  
+
+</div>
+
+---
+
+## 🐍 My Contributions Snake
+<p align="center">
+  <img src="https://github.com/Hemant-KK/Hemant-KK/blob/output/snake.svg" alt="Snake Animation" />
+</p>
+
+---
+
+## 🌌 About Me
+```javascript
+const Hemant = {
+    code: ["JavaScript", "Python", "C++", "Go", "Java"],
+    askMeAbout: ["Web Development", "AI", "Automation", "Space Tech"],
+    experience: "1000+ years in coding 💻",
+    currentProject: "Building the future with AI 🚀",
+    motto: "Eat 🍕 • Sleep 😴 • Code 💻 • Repeat 🔁"
+}
