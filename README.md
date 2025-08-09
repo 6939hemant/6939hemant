@@ -35,9 +35,7 @@ You can click the Preview link to take a look at your changes.
 <!-- ANIMAL GIFS -->
 <p align="center">
   <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="150px" />
-  <img src="https://media.giphy.com/media/3o6ZsY3vQqQvG6s2qE/giphy.gif" width="150px" />
-  <img src="https://media.giphy.com/media/l3vR9O9r3Gd8qfIha/giphy.gif" width="150px" />
-</p>
+  <img 
 
 ---
 
@@ -59,10 +57,6 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-## 🐍 My Contributions Snake
-<p align="center">
-  <img src="https://github.com/Hemant-KK/Hemant-KK/blob/output/snake.svg" alt="Snake Animation" />
-</p>
 
 ---
 
