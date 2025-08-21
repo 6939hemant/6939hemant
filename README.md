@@ -65,7 +65,7 @@ You can click the Preview link to take a look at your changes.
 const Hemant = {
     code: ["JavaScript", "Python", "C++", "Go", "Java"],
     askMeAbout: ["Web Development", "AI", "Automation", "Space Tech"],
-    experience: "1000+ years in coding 💻",
+    experience: "1+ years in coding 💻",
     currentProject: "Building the future with AI 🚀",
     motto: "Eat 🍕 • Sleep 😴 • Code 💻 • Repeat 🔁"
 }
